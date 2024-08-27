@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm heyzec
 
-I'm a penultimate Computer Science undergraduate at [National University of Singapore](https://nus.edu.sg). I enjoy coding and learning about the world when I'm free!
+I'm a final Computer Science undergraduate at [National University of Singapore](https://nus.edu.sg). I enjoy coding and learning about the world when I'm free!
 
 <div align="center" markdown="1">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=heyzec&show_icons=true&theme=transparent" alt="heyzec's GitHub stats" height="180"></a>
